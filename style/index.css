@@ -212,13 +212,90 @@ footer a:hover {
         margin-bottom: 6%;
     }
 
-   
+   .section-text {
+       width: 80%;
+       text-align: center;
+   }
     
 
-    .section-text, .name-para {
-        width: 80%;
+    .name-para {
         text-align: center;
         margin-right: 0;
+    }
+
+    .images {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .box, .text-below {
+        width: 50%;
+        margin-bottom: 4%;
+    }
+
+    .b1 {
+        order: -1;
+    }
+
+    .b2 {
+        order:  1;
+    }
+
+    .b3 {
+        order:  3;
+    }
+
+    .b4 {
+        order:  5;
+    }
+
+    .b5 {
+        order:  0;
+    }
+
+    .b6 {
+        order: 2 ;
+    }
+
+    .b7 {
+        order: 4 ;
+    }
+
+    .b8 {
+        order:  6;
+    }
+
+    .b9 {
+        order:  7;
+    }
+
+    .b10 {
+        order: 9 ;
+    }
+
+    .b11 {
+        order: 11 ;
+    }
+
+    .b12 {
+        order:  13;
+    }
+
+    .b13 {
+        order: 8 ;
+    }
+
+    .b14 {
+        order:  10;
+    }
+    .b15 {
+        order:  12;
+    }
+
+    .b16 {
+        order:  14;
     }
 } 
 
